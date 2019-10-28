@@ -1,0 +1,3 @@
+operations:
+         serviceURL: https://localhost:8080/availableDevices # This is the rest service end point which needs to be consumed.
+ 
